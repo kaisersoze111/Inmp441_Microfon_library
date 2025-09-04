@@ -8,4 +8,4 @@ How to add the files
 
 
 
-<img width="994" height="998" alt="c8597a76-dfdc-4d06-9d1e-2fdce41dcb0f" src="https://github.com/user-attachments/assets/56c6b6e1-de9d-4e71-82a4-fed8cad544fe" />
+<img width="400" height="400" alt="c8597a76-dfdc-4d06-9d1e-2fdce41dcb0f" src="https://github.com/user-attachments/assets/56c6b6e1-de9d-4e71-82a4-fed8cad544fe" />
