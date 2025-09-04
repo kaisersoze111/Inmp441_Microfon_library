@@ -1,2 +1,2 @@
-# Inmp441_Microfon_library
+# Inmp441_Microfon_library_for_Kicad
 Inmp441_Microfon_library_kicad_mod_kicad_sym
