@@ -1,7 +1,8 @@
 # Inmp441_Microfon_library_for_Kicad
 Inmp441_Microfon_library_kicad_mod_kicad_sym
 
-How to add the files
+How to add the files:
+
 1.Open Settings in KiCad.
 
 2.Click on Manage Symbol Libraries and add the provided .kicad_sym file.
